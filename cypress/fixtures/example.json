@@ -1,0 +1,10 @@
+{
+  "url": "orders",
+  "dataPost": {
+    "bookId": 1,
+    "customerName": "testtest"
+  },
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "accessToken": "b2fe6f8b9b40392b600e7d4ac45be63ac0cfe2e86b519bad83fe55a47d881427",
+  "orderId": "KeRYc5TCVbvmE46FSZ11e"
+}
